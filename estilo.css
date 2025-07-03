@@ -1,15 +1,2 @@
 
-body {
-    background: #f0f0f0;
-    font-family: Verdana;
-}
-
-header {
-    text-align: center;
-    padding: 30px;
-}
-
-img {
-    width: 100%;
-    display: block;
-}
+body{background:#f0f0f0;font-family:Verdana}header{text-align:center;padding:30px}img{width:100%;display:block}

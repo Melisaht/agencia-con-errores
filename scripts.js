@@ -1,4 +1,2 @@
 
-window.addEventListener("DOMContentLoaded", () => {
-    console.log("Página cargada correctamente");
-});
+window.addEventListener("DOMContentLoaded",()=>{console.log("Página cargada correctamente")});
